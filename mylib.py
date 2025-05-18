@@ -75,7 +75,7 @@ def ej6_quidditch(apostado :float, calidades :list) -> float:
     >>> ej6_quidditch(100, [1, 1, 1, 1])
     400.0
 
-    >>> ej6_quiditch(50, [10, 5, 20, 5])
+    >>> ej6_quidditch(50, [10, 5, 20, 5])
     420.42058795339176
 
     >>> ej6_quidditch(10, [97, 1, 1, 1])
